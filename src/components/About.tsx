@@ -6,7 +6,7 @@ const About = () => {
           {/* Image side */}
           <div className="relative">
             <div className="aspect-[4/5] rounded-2xl overflow-hidden shadow-elevated">
-              <img alt="Emily Loewinger" className="w-full h-full object-cover" src="/lovable-uploads/049216bd-1710-4d96-90df-43165f6c25a7.png" />
+              <img alt="Emily Loewinger" className="w-full h-full object-cover" src="/images/emily-loewinger.png" />
             </div>
             {/* Decorative accent */}
             <div className="absolute -bottom-6 -right-6 w-48 h-48 bg-secondary rounded-2xl -z-10" />
