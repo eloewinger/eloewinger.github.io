@@ -15,7 +15,7 @@ const Footer = () => {
 
           <div className="flex items-center gap-6">
             <a
-              href="https://www.linkedin.com/in/emilyloewinger/"
+              href="https://www.linkedin.com/in/emily-loewinger/"
               target="_blank"
               rel="noopener noreferrer"
               className="font-body text-sm text-muted-foreground hover:text-foreground transition-colors"
@@ -23,7 +23,7 @@ const Footer = () => {
               LinkedIn
             </a>
             <a
-              href="mailto:eloewinger@gmail.com"
+              href="mailto:eloewinger1@gmail.com"
               className="font-body text-sm text-muted-foreground hover:text-foreground transition-colors"
             >
               Email

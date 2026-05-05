@@ -11,7 +11,7 @@ const projects = [{
   category: "Website & Branding",
   description: "Enhanced user experience with online shopping, event booking, and distillery tours. Created an interactive history timeline showcasing their 1771-2017 journey.",
   image: "https://static.wixstatic.com/media/413ddb_d5b01ed403a148289bafef2fbfd010ad~mv2.png/v1/fill/w_600,h_285,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/413ddb_d5b01ed403a148289bafef2fbfd010ad~mv2.png",
-  link: "https://leipersforkdistillery.com/",
+  link: "https://www.leipersforkdistillery.com/whiskeys",
   metrics: "Full Rebrand"
 }, {
   title: "MC Granite",
@@ -50,7 +50,7 @@ const amazonStorefront = [{
   title: "Leiper's Fork Bourbon",
   description: "Product page copy for premium bottled-in-bond bourbon whiskey.",
   image: "https://cdn-ilcagkl.nitrocdn.com/wwWWtSFzmMvtcqqsdxieOpGaLuiuGtVN/assets/images/optimized/rev-611dc53/leipersforkdistillery.com/wp-content/themes/leipersfork/static/img/bourbon-bottle.png",
-  link: "https://leipersforkdistillery.com/whiskeys/bourbon-bottled-in-bond/"
+  link: "https://www.leipersforkdistillery.com/whiskeys"
 }, {
   title: "EMP Protection Kit",
   description: "Storefront product copy for emergency preparedness equipment.",
